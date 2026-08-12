@@ -85,5 +85,5 @@ sudo docker-compose up -d --scale edge-router=3
 ```
 
 ## Author
-Jonathan Aussant
-Abdullah Shahid
+* Jonathan Aussant
+* Abdullah Shahid

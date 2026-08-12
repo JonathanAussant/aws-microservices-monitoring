@@ -59,10 +59,6 @@ Provision an Ubuntu EC2 instance on AWS, attach an **Elastic IP**, and open the 
 
 ### 2. Deploy Microservices
 ```bash
-# Clone the repository and navigate to deployment directory
-git clone [https://github.com/ImThe404/aws-microservices-monitoring.git](https://github.com/ImThe404/aws-microservices-monitoring.git)
-cd aws-microservices-monitoring/deploy
-
 # Launch the core microservices stack
 sudo docker-compose up -d
 ```
